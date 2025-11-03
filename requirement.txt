@@ -1,0 +1,16 @@
+# Core web framework
+Flask==3.0.3
+
+# For password hashing
+passlib==1.7.4
+
+# For database interaction 
+Flask-SQLAlchemy==3.1.1
+
+# For handling forms and validation
+Flask-WTF==1.2.1
+WTForms==3.1.2
+
+
+
+
