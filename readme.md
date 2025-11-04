@@ -1,6 +1,6 @@
 ### This is a little project done during my intern at solution22
 
-------------------------------------------------------------
+
  ###                SECURE LOGIN SIMULATION
 ------------------------------------------------------------
 
@@ -11,7 +11,7 @@ a secure user authentication system. It allows users to:
 - Log in securely with hashed passwords
 - Access a protected dashboard once logged in
 
-------------------------------------------------------------
+
 ###                 HOW TO RUN THE WEB APP
 ------------------------------------------------------------
 
