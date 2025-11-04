@@ -60,15 +60,19 @@ a secure user authentication system. It allows users to:
 
 
  ###                   PROJECT STRUCTURE
+
+```text
 Secure-Login-Simulation/
-├─ static/          # CSS, images
-├─ templates/       # HTML templates (login, signup, dashboard)
-├─ instance/        # SQLite data
-│  └─ database.db
-├─ app.py           # Main Flask app
-├─ create_db.py     # DB initializer script
-├─ requirements.txt # Python dependencies
-└─ README.md        # Project info
+├── static/          # CSS, images
+├── templates/       # HTML templates (login, signup, dashboard)
+├── instance/        # SQLite data
+│   └── database.db
+├── app.py           # Main Flask app
+├── create_db.py     # DB initializer script
+├── requirements.txt # Python dependencies
+└── README.md        # Project info
+```
+
 
 
 
